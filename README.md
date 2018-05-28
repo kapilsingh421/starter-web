@@ -12,3 +12,9 @@ Sample website with plenty of files for demos
 github project
 
 #Deployment
+
+
+
+### Copyright
+
+2018 Git.training.
